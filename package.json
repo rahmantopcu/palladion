@@ -1,0 +1,27 @@
+﻿{
+  "name": "com.rahmantopcu.palladion",
+  "version": "0.0.0",
+  "displayName": "Palladion",
+  "description": "GraphView based multi-purpose asset editing tool. Allows you to create and edit custom asset types using nodes made by you.",
+  "unity": "6000.0",
+  "unityRelease": "25f1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Rahman Topçu",
+    "url": "https://www.rahmantopcu.github.io"
+  },
+  
+  "samples": [
+    {
+      "displayName": "Dialogue Asset",
+      "description": "Contains a custom asset type with custom nodes that can be used to create a dialogue system with Palladion.",
+      "path": "Samples~/DialogueAsset"
+    }
+  ]
+  
+  
+}

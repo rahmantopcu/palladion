@@ -1,0 +1,60 @@
+GridBackground
+{
+    --grid-background-color: var(--asset-editor-grid-light-grey-1);
+    
+    --line-color: var(--asset-editor-grid-light-grey-2);
+    --thick-line-color: var(--asset-editor-grid-light-grey-3);
+    
+    --spacing: var(--asset-editor-metrics-grid-25);
+}
+
+#asset-graph-toolbar
+{
+    background-color: var(--asset-editor-toolbar-grey-1);
+    
+    height: 40px;
+    
+    align-items: center;
+}
+
+#asset-graph-toolbar ToolbarButton
+{
+    background-color: var(--asset-editor-toolbar-gray-2);
+    
+    height: 30px;
+    
+    width: 30px;
+    
+    padding: 10px;
+
+    margin-left: 5px;
+    
+    border-radius: 5px;
+}
+
+.asset-graph-editor-toolbar-button-undo
+{
+    background-image: var(--asset-editor-toolbar-button-icon-1);
+
+    background-size: 20px;
+}
+
+.asset-graph-editor-toolbar-button-redo
+{
+    background-image: var(--asset-editor-toolbar-button-icon-2);
+
+}
+
+.asset-graph-editor-toolbar-button-save
+{
+    background-image: var(--asset-editor-toolbar-button-icon-3);
+
+}
+
+.asset-graph-editor-toolbar-button-discard
+{
+    background-image: var(--asset-editor-toolbar-button-icon-4);
+
+}
+
+
